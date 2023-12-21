@@ -1,4 +1,4 @@
-name: build and push image to docker hub
+name: build and push image to docker hub ohhhh
 
 on: push
 jobs:
